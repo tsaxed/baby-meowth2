@@ -1,0 +1,22 @@
+2017-10-15 12:22:46,071:INFO:discord.client: on_ready has successfully been registered as an event
+2017-10-15 12:22:46,088:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-10-15 12:22:46,089:INFO:discord.client: on_server_remove has successfully been registered as an event
+2017-10-15 12:22:46,089:INFO:discord.client: on_member_join has successfully been registered as an event
+2017-10-15 12:22:46,092:INFO:discord.client: on_message has successfully been registered as an event
+2017-10-15 12:22:46,097:INFO:discord.client: on_command_error has successfully been registered as an event
+2017-10-15 12:22:46,098:INFO:discord.client: logging in using static token
+2017-10-15 12:22:47,567:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-15 12:22:47,569:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-10-15 12:22:49,646:INFO:discord: Maintenance Tasts Started
+2017-10-15 12:22:49,647:INFO:discord: Server_Cleanup ------ BEGIN ------
+2017-10-15 12:22:49,647:INFO:discord: Server_Cleanup - SAVING CHANGES
+2017-10-15 12:22:49,697:INFO:discord: Server_Cleanup ------ END ------
+2017-10-15 12:22:49,699:INFO:discord: Channel_Cleanup ------ BEGIN ------
+2017-10-15 12:22:49,699:INFO:discord: Channel_Cleanup - SAVING CHANGES
+2017-10-15 12:22:49,709:INFO:discord: Channel_Cleanup ------ END ------
+2017-10-15 12:32:49,709:INFO:discord: Channel_Cleanup ------ BEGIN ------
+2017-10-15 12:32:49,710:INFO:discord: Channel_Cleanup - SAVING CHANGES
+2017-10-15 12:32:49,719:INFO:discord: Channel_Cleanup ------ END ------
+2017-10-15 12:42:49,723:INFO:discord: Channel_Cleanup ------ BEGIN ------
+2017-10-15 12:42:49,724:INFO:discord: Channel_Cleanup - SAVING CHANGES
+2017-10-15 12:42:49,734:INFO:discord: Channel_Cleanup ------ END ------
